@@ -1,0 +1,12 @@
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="in.srikanth.entity.ProductEntity"><rhs name\="in.srikanth.entity.ProductEntity"/></lhs><lhs name\="in.srikanth.entity.StudentCompositeKey"><rhs name\="in.srikanth.entity.StudentCompositeKey"/></lhs><lhs name\="in.srikanth.entity.StudentEntity"><rhs name\="in.srikanth.entity.StudentEntity"/></lhs><lhs name\="in.srikanth.entity.EmployeeEntity"><rhs name\="in.srikanth.entity.EmployeeEntity"/></lhs><lhs name\="java.lang.Enum"><rhs name\="javax.persistence.FetchType"/><rhs name\="javax.persistence.CascadeType"/></lhs><lhs name\="java.lang.constant.Constable"><rhs name\="javax.persistence.FetchType"/><rhs name\="javax.persistence.CascadeType"/></lhs><lhs name\="java.io.InputStream"><rhs name\="java.io.FileInputStream"/></lhs><lhs name\="java.io.Closeable"><rhs name\="java.io.FileInputStream"/><rhs name\="java.io.FileOutputStream"/></lhs><lhs name\="java.lang.AutoCloseable"><rhs name\="java.io.FileInputStream"/><rhs name\="java.io.FileOutputStream"/></lhs><lhs name\="java.io.FileInputStream"><rhs name\="java.io.FileInputStream"/></lhs><lhs name\="java.io.OutputStream"><rhs name\="java.io.FileOutputStream"/></lhs><lhs name\="java.io.Flushable"><rhs name\="java.io.FileOutputStream"/></lhs><lhs name\="java.io.FileOutputStream"><rhs name\="java.io.FileOutputStream"/></lhs><lhs name\="in.srikanth.entity.BankEntity"><rhs name\="in.srikanth.entity.BankEntity"/></lhs><lhs name\="in.srikanth.entity.DepartmentEntity"><rhs name\="in.srikanth.entity.DepartmentEntity"/></lhs><lhs name\="in.srikanth.entity.DogEntity"><rhs name\="in.srikanth.entity.DogEntity"/></lhs></history>
+content_assist_number_of_computers=17
+content_assist_proposals_background=255,255,255
+content_assist_proposals_foreground=0,0,0
+eclipse.preferences.version=1
+org.eclipse.jdt.internal.ui.navigator.layout=2
+org.eclipse.jdt.internal.ui.navigator.librariesnode=true
+org.eclipse.jdt.ui.formatterprofiles.version=23
+spelling_locale_initialized=true
+typefilter_migrated_2=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true

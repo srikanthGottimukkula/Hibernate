@@ -1,0 +1,5 @@
+package in.srikanth.dao.impl;
+
+public class CustomerDaoImpl {
+
+}

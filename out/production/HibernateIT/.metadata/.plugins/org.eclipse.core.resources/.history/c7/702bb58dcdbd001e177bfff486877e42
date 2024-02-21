@@ -1,0 +1,7 @@
+package in.srikanth.dao;
+
+public class main1 {
+public main() {
+System.out.println("💕💕💕💕💕");
+}
+}

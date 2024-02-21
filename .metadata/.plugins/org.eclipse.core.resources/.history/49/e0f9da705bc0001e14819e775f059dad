@@ -1,0 +1,27 @@
+package in.srikanth.dao.impl;
+
+import javax.persistence.Persistence;
+
+import in.srikanth.dao.CustomerDao;
+import in.srikanth.entity.Customer;
+
+public class CustomerDaoImpl implements CustomerDao {
+	
+//	Persistence.createEntityManager("test");
+
+	@Override
+	public void saveCustomer(Customer customer) {
+		
+	}
+
+	@Override
+	public Customer fetchCustomer(Integer custID) {
+		return null;
+	}
+
+	@Override
+	public void deleteCustomer(Integer custID) {
+		
+	}
+
+}
